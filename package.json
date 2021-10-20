@@ -1,0 +1,15 @@
+{
+  "name": "web-screap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "go": "node scripts/app.js"
+     
+  },
+  "author": "Luis Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
